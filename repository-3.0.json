@@ -1,5 +1,5 @@
 {
-    "drivers": [        
+    "drivers": [
         {
             "name": "chromedriver",
             "platform": "linux",
@@ -837,12 +837,117 @@
             "fileMatchInside": ".*/bin/phantomjs$"
         },
         {
+            "name": "geckodriver",
+            "platform": "windows",
+            "bit": "64",
+            "version": "0.14.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.14.0/geckodriver-v0.14.0-win64.zip"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "windows",
+            "bit": "32",
+            "version": "0.14.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.14.0/geckodriver-v0.14.0-win32.zip"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "linux",
+            "bit": "64",
+            "version": "0.14.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.14.0/geckodriver-v0.14.0-linux64.tar.gz"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "linux",
+            "bit": "32",
+            "version": "0.14.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.14.0/geckodriver-v0.14.0-linux32.tar.gz"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "mac",
+            "bit": "64",
+            "version": "0.14.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.14.0/geckodriver-v0.14.0-macos.tar.gz"
+        },
+        {
             "name": "phantomjs",
             "platform": "windows",
             "bit": "64",
             "version": "1.9.7",
             "url": "https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.7-windows.zip",
             "fileMatchInside": ".*/phantomjs.exe$"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "windows",
+            "bit": "64",
+            "version": "0.13.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.13.0/geckodriver-v0.13.0-win64.zip"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "windows",
+            "bit": "32",
+            "version": "0.13.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.13.0/geckodriver-v0.13.0-win32.zip"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "linux",
+            "bit": "64",
+            "version": "0.13.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.13.0/geckodriver-v0.13.0-linux64.tar.gz"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "linux",
+            "bit": "32",
+            "version": "0.13.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.13.0/geckodriver-v0.13.0-linux32.tar.gz"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "mac",
+            "bit": "64",
+            "version": "0.13.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.13.0/geckodriver-v0.13.0-macos.tar.gz"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "windows",
+            "bit": "64",
+            "version": "0.12.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.12.0/geckodriver-v0.12.0-win64.zip"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "windows",
+            "bit": "32",
+            "version": "0.12.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.12.0/geckodriver-v0.12.0-win32.zip"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "linux",
+            "bit": "64",
+            "version": "0.12.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.12.0/geckodriver-v0.12.0-linux64.tar.gz"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "linux",
+            "bit": "32",
+            "version": "0.12.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.12.0/geckodriver-v0.12.0-linux32.tar.gz"
+        },
+        {
+            "name": "geckodriver",
+            "platform": "mac",
+            "bit": "64",
+            "version": "0.12.0",
+            "url": "https://github.com/mozilla/geckodriver/releases/download/v0.12.0/geckodriver-v0.12.0-macos.tar.gz"
         },
         {
             "name": "geckodriver",
